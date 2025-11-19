@@ -45,11 +45,13 @@ AI models specialized for security applications and scenarios.
 
 ### Specialized Security Models
 
-- [Foundation-Sec-8B](https://huggingface.co/fdtn-ai/Foundation-Sec-8B) - Recent 8B parameter security-specialized model outperforming Llama 3.1 8B by +3.25% on CTI-MCQA and +8.83% on CTI-RCM, rivaling 70B models with 10x fewer parameters.
+- [Foundation-Sec-1.1-8B-Instruct](https://huggingface.co/fdtn-ai/Foundation-Sec-1.1-8B-Instruct) - Latest 8B parameter Foundation-Sec model with extended 64k context window, enabling processing of longer security documents and incident reports while maintaining strong performance on cybersecurity tasks.
+- [Foundation-Sec-8B-Instruct](https://huggingface.co/fdtn-ai/Foundation-Sec-8B-Instruct) - Instruction-tuned 8B parameter security model, designed as a chat-native copilot for cybersecurity workflows including SOC automation, threat defense, and security engineering.
+- [Foundation-Sec-8B](https://huggingface.co/fdtn-ai/Foundation-Sec-8B) - Base 8B parameter model with cybersecurity-specific pretraining, outperforming Llama 3.1 70B on cyber threat intelligence tasks with 10x fewer parameters.
 - [Llama-Primus-Base](https://huggingface.co/trendmicro-ailab/Llama-Primus-Base) - Foundation model with cybersecurity-specific pretraining on proprietary corpus.
 - [Llama-Primus-Merged](https://huggingface.co/trendmicro-ailab/Llama-Primus-Merged) - Combined model through pretraining and instruction fine-tuning.
 - [Llama-Primus-Reasoning](https://huggingface.co/trendmicro-ailab/Llama-Primus-Reasoning) - Reasoning-specialized model enhancing security certification through o1-distilled reasoning patterns.
-
+- 
 ## Datasets
 
 Resources designed for training and fine-tuning AI systems on security-related tasks.
