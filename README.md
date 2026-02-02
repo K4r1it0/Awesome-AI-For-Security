@@ -45,6 +45,7 @@ AI models specialized for security applications and scenarios.
 
 ### Specialized Security Models
 
+- [Foundation-Sec-8B-Reasoning](https://huggingface.co/fdtn-ai/Foundation-Sec-8B-Reasoning) - 8B parameter model extending Foundation-Sec-8B with reasoning capabilities, enabling test-time compute for complex security analysis and achieving state-of-the-art performance on CTI benchmarks.
 - [Foundation-Sec-1.1-8B-Instruct](https://huggingface.co/fdtn-ai/Foundation-Sec-1.1-8B-Instruct) - Latest 8B parameter Foundation-Sec model with extended 64k context window, enabling processing of longer security documents and incident reports while maintaining strong performance on cybersecurity tasks.
 - [Foundation-Sec-8B-Instruct](https://huggingface.co/fdtn-ai/Foundation-Sec-8B-Instruct) - Instruction-tuned 8B parameter security model, designed as a chat-native copilot for cybersecurity workflows including SOC automation, threat defense, and security engineering.
 - [Foundation-Sec-8B](https://huggingface.co/fdtn-ai/Foundation-Sec-8B) - Base 8B parameter model with cybersecurity-specific pretraining, outperforming Llama 3.1 70B on cyber threat intelligence tasks with 10x fewer parameters.
