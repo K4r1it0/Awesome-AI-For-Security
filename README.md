@@ -82,6 +82,7 @@ This section covers frameworks and methodologies for evaluating AI systems withi
 ### Offensive Security
 
 - [NYU CTF Bench](https://github.com/NYU-LLM-CTF/NYU_CTF_Bench) - Dockerized CTF challenges repository enabling automated LLM agent interaction across categories.
+- [Practical AI Security Course](https://academy.8ksec.io/course/practical-ai-security) - AI/ LLM Security Course focusing on applying AI/LLMs to security problems and creating Pen-Testing Agents.
 
 ### General Security Knowledge
 
