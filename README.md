@@ -136,6 +136,7 @@ Software tools that implement AI for security applications.
 
 - [Malware Env for OpenAI Gym](https://github.com/endgameinc/gym-malware) - Reinforcement learning environment enabling malware manipulation for AV bypass learning.
 - [Deep-pwning](https://github.com/cchio/deep-pwning) - Framework for assessing ML model robustness against adversarial attacks through systematic evaluation.
+- [PromptTrace](https://prompttrace.airedlab.com/) - Interactive AI security training platform with 7 attack labs, a 15-level Gauntlet, and real-time Context Trace for practicing prompt injection, defense bypass, and tool abuse against real LLMs.
 
 ## Security Agents
 
